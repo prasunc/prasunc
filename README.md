@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @prasunc
-- 👀 I’m interested in Medical Imaging
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I am Prasun...
 
 <!---
 prasunc/prasunc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
